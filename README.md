@@ -1,9 +1,9 @@
-# torusBase
-An operating system designed to match the frutiger aero style.
+# torusXP
+An operating system designed to match the frutiger-aero style, which will be made with Rust and C.
 
 ## Status:
 
-WIP
+Work in progress.
 
 ## License
 
