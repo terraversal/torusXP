@@ -1,7 +1,7 @@
 # torusXP
 An operating system designed to match the frutiger-aero style, which will be made with Rust and C.
 
-## Status:
+## Status
 
 Work in progress.
 
